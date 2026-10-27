@@ -1,0 +1,2884 @@
+{
+    "name": "Ghosts of Onigawa Investigator",
+    "id": "359b2763-08b7-4593-8fb7-ecd25df10cfd",
+    "icon": "./images/The Ghosts of Onigawa.png",
+    "meta": {
+        "dirty": []
+    },
+    "cards": [
+        {
+            "name": "Yuki Yagami",
+            "id": "db12a551-6b9d-4996-8313-4ea97d37c026",
+            "project_number": "1",
+            "front": {
+                "agility": "3",
+                "classes": [
+                    "guardian"
+                ],
+                "combat": "1",
+                "flavor_text": "\"I must perform my sacred duty... No matter the cost.\"",
+                "health": "7",
+                "illustration": "./images/image-removebg-preview (1).png",
+                "illustration_pan_x": 26.0,
+                "illustration_pan_y": 198.0,
+                "illustration_scale": 2.838,
+                "illustrator": "Illus. Li Miao",
+                "intellect": "4",
+                "sanity": "7",
+                "subtitle": "The Priestess",
+                "text": "<reaction>: After you resolve at least 1 <blessing> token during a successful skill test: Draw 1 card.\n<elder_sign> effect: +1. You may search the chaos bag for a <curse> token and return it to the token pool.",
+                "title": "<unique><name>",
+                "traits": "Believer. Cursed.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "001mini-Yuki Yagami.eon",
+            "id": "ceaadf70-fd61-4fc2-8a06-cc090dc18b6b",
+            "front": {
+                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "Apotheosis",
+            "id": "3694e53b-c235-47b5-8dac-6ab797f5f83a",
+            "project_number": "2",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "3",
+                "flavor_text": "The sacred bloodline of the goddess Amaterasu was carefully preserved until a suitable vessel for her essence could be found.",
+                "health": "2",
+                "icons": "WQ",
+                "illustration": "./images/feig-felipe-perez-238-amaterasu-rgb.jpg",
+                "illustration_pan_x": -376.0,
+                "illustration_pan_y": 66.0,
+                "illustration_scale": 1.894,
+                "illustrator": "Illus. Feig Felipe Perez",
+                "level": "None",
+                "sanity": "2",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "subtitle": "Living Sainthood",
+                "text": "Yuki Yagami deck only.\n<reaction> When your turn begins: Add 1 <blessing> token to the chaos bag.\n<reaction>  After your turn ends: Search the chaos bag for 1 <curse> token and return it to the token pool.",
+                "title": "<unique><name>",
+                "traits": "Avatar. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Succession",
+            "id": "4d256ac9-c9f4-4368-91c0-e2bc7c9037a0",
+            "project_number": "3",
+            "front": {
+                "classes": [
+                    "weakness"
+                ],
+                "flavor_text": "<size 7.5>Many who undergo the shrine maiden \"training\" are unable to speak of it.",
+                "illustration": "./images/audrius-mitkus-kuuro-don-t-stop-art.jpg",
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 206.0,
+                "illustration_scale": 0.793,
+                "illustrator": "Illus. Audrius Mitkus",
+                "level": "None",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "subtitle": "That August Night",
+                "text": "<rev> Put <name> into play and seal all <blessing> tokens in the chaos bag on it.\n<for> When a <blessing> token would be added to the chaos bag: Seal it on this and add a <curse> token to the chaos bag, instead.\n<action>: Test <willpower> (4). If you succeed, release all tokens sealed here and discard <name>.",
+                "title": "<unique><name>",
+                "traits": "Curse.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Makoto Miyazaki",
+            "id": "cf5c51a4-2eae-4620-b6d8-86638691dd20",
+            "project_number": "4",
+            "front": {
+                "agility": "4",
+                "classes": [
+                    "seeker"
+                ],
+                "combat": "2",
+                "flavor_text": "\"The truth will set you free.\"",
+                "health": "6",
+                "illustration": "./images/geisha3-trans.png",
+                "illustrator": "Illus. G. Host Lee",
+                "intellect": "4",
+                "sanity": "8",
+                "subtitle": "The Courtesan",
+                "text": "Reduce the difficulty of skill tests you perform during parley actions by 1.\n<reaction> After a non-<t>Elite</t> enemy enters play: Disengage from that enemy, if able. That enemy cannot engage you until the end of the round. (Limit once per round.)\n<elder_sign> effect: +X. X is the number of enemies in play.",
+                "title": "<unique><name>",
+                "traits": "Performer. Socialite.",
+                "type": "investigator",
+                "willpower": "2"
+            },
+            "back": {
+                "illustration": "./images/geisha3-bg.png",
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "002mini-Makoto Miyazaki.eon",
+            "id": "e7720128-2dd5-4aca-afd6-7ae2a1c88a27",
+            "front": {
+                "illustration": "./images/geisha3-bg.png",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/geisha3-bg.png",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "The Infinite Oculus",
+            "id": "d237c48c-5870-49ea-9580-9c914ab7343a",
+            "project_number": "5",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "2",
+                "flavor_text": "All secrets are laid bare beneath the mask's withering gaze.",
+                "icons": "WIQ",
+                "illustration": "./images/H2f02df0cebd84e1aa8093317a6c097caz.jpg",
+                "illustration_pan_x": 58.0,
+                "illustration_pan_y": -140.0,
+                "illustration_scale": 1.337,
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "subtitle": "Myriad Truths",
+                "text": "Makoto Miyazaki deck only.\nLimit 1 <t>Headgear</t> per investigator.\nYou get +1 <intellect> for each enemy at your location.\n<reaction> When the investigation phase begins, if there is at least one enemy at your location: Gain 1 resource.",
+                "title": "<unique><name>",
+                "traits": "Item. Headgear. Relic. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Porcelain Mirage",
+            "id": "23554038-b0bf-487d-b431-f7db20bb373f",
+            "project_number": "6",
+            "front": {
+                "classes": [
+                    "weakness"
+                ],
+                "flavor_text": "Whatever truth there may be in beauty, \nit remains only skin deep.",
+                "illustration": "./images/othon-nikolaidis-kwaidan.jpg",
+                "illustration_pan_x": -414.0,
+                "illustration_pan_y": -15.0,
+                "illustration_scale": 1.148,
+                "illustrator": "Illus. Othon Nikolaidis",
+                "text": "<rev> Put <name> into play in your threat area.\nYour location gets +1 shroud.\n<action> Spend 4 resources: Discard Porcelain Mirage.",
+                "traits": "Flaw.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Hideki Honda",
+            "id": "70469742-4ac3-4ff8-9704-751d74b4d584",
+            "project_number": "7",
+            "front": {
+                "agility": "4",
+                "classes": [
+                    "rogue"
+                ],
+                "combat": "4",
+                "flavor_text": "\"Though I may strike from the shadows, do not think I lack the courage to stand in the light.\"",
+                "health": "8",
+                "illustration": "./images/shinobi-2.png",
+                "illustration_pan_x": -19.0,
+                "illustration_pan_y": 23.0,
+                "illustration_scale": 3.619,
+                "illustrator": "Illus. Anarch Fox",
+                "intellect": "2",
+                "sanity": "6",
+                "subtitle": "The Shinobi",
+                "text": "<free>: Deal 1 damage to an enemy at your location that is not engaged with you. (Limit once per round)\n<elder_sign> effect: +2. You may automatically evade 1 non-<t>Elite</t> enemy at your location.",
+                "title": "<unique><name>",
+                "traits": "Hunter. Syndicate.",
+                "type": "investigator",
+                "willpower": "2"
+            },
+            "back": {
+                "illustration": "./images/shinobi.jpg",
+                "illustration_pan_x": -2.0,
+                "illustration_pan_y": -66.0,
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "003mini-Hideki Honda.eon",
+            "id": "451be2ae-900a-440d-890b-d409847f4d0a",
+            "front": {
+                "illustration": "./images/shinobi.jpg",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/shinobi.jpg",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "Nabiki Nagata",
+            "id": "2797bd26-cf9b-4989-84a8-7d57357df2a5",
+            "project_number": "8",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "4",
+                "flavor_text": "Only one of Hideki's pupils has ever shown real promise.",
+                "health": "2",
+                "icons": "CA",
+                "illustration": "./images/ninja6.jpg",
+                "illustration_pan_x": 53.0,
+                "illustration_pan_y": 58.0,
+                "illustration_scale": 0.806,
+                "illustrator": "Illus. Allen Hsieh",
+                "level": "None",
+                "sanity": "2",
+                "slot": "Ally",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Killer Kunoichi",
+                "text": "Hideki Honda deck only.\nYou get +1 <agility>\n<free> Discard <name>: <b>Evade.</b> Automatically evade all non-<t>Elite</t> enemies at your location.",
+                "title": "<unique><name>",
+                "traits": "Ally. Hunter.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Survivor's Guilt",
+            "id": "2e38ad6b-d69d-40f2-8ccc-bd543a2886a6",
+            "project_number": "9",
+            "front": {
+                "classes": [
+                    "weakness"
+                ],
+                "flavor_text": "He couldn't save anyone. He can't even save himself.",
+                "illustration": "./images/omid-goudarzi-harakiri.jpg",
+                "illustration_pan_x": 78.0,
+                "illustration_pan_y": -226.0,
+                "illustration_scale": 0.734,
+                "illustrator": "Illus. Omid Goudarzi",
+                "text": "<rev> Put <name> into play in your threat area.\n<for> After you succeed at a skill test: Take 1 direct horror. \n<action><action>: Discard Survivor's Guilt. You may activate this ability only if you control an <t>Ally</t> asset.",
+                "traits": "Madness.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Akira Arisato",
+            "id": "98be9586-872e-4310-b2e0-ed4c7feea865",
+            "project_number": "10",
+            "front": {
+                "agility": "1",
+                "classes": [
+                    "mystic"
+                ],
+                "combat": "2",
+                "flavor_text": "<size 7.2>\"A thousand generations live on in me.\"",
+                "health": "5",
+                "illustration": "./images/image-removebg-preview (5).png",
+                "illustration_pan_x": 5.0,
+                "illustration_pan_y": 323.0,
+                "illustration_scale": 2.333,
+                "illustrator": "Illus. Celestial Fang",
+                "intellect": "4",
+                "sanity": "9",
+                "subtitle": "The Medium",
+                "text": "<reaction> When a non-weakness skill card would be placed in the discard pile of an investigator at your location: Shuffle that card into its owner's deck instead. (Limit once per round.)\n<elder_sign> effect: +1. You may return a card from your discard pile to your hand.",
+                "title": "<unique><name>",
+                "traits": "Sorcerer. Dreamer.",
+                "type": "investigator",
+                "willpower": "5"
+            },
+            "back": {
+                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": 80.0,
+                "illustration_scale": 0.429,
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "004mini-Akira Arisato.eon",
+            "id": "93a8417b-4196-4ef8-bdcf-74420dd9d04e",
+            "front": {
+                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "Living Memory",
+            "id": "a7903ed3-0cd0-402f-b878-8895c99a5802",
+            "project_number": "11",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "3",
+                "flavor_text": "\"Nothing is truly lost until it is forgotten.\"",
+                "icons": "WQ",
+                "illustration": "./images/vera-velichko-1.jpg",
+                "illustration_pan_x": -52.0,
+                "illustration_pan_y": 281.0,
+                "illustration_scale": 1.028,
+                "illustrator": "Illus. Vera Velichko",
+                "level": "None",
+                "subtitle": "Total Recall",
+                "text": "Akira Arisato deck only.\nYou may commit the top-most skill card in your discard pile as through it were in your hand. If that card would be discarded when the test ends, place it on the bottom of your deck, instead. <i>(Limit once per turn.) </i>",
+                "title": "<unique><name>",
+                "traits": "Talent. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Liminal Breach",
+            "id": "117bc4e5-3b53-49b6-9323-55c6aa8a1df4",
+            "project_number": "12",
+            "front": {
+                "classes": [
+                    "weakness"
+                ],
+                "flavor_text": "Many souls that have passed from our world \nwould do anything to return to it.",
+                "illustration": "./images/HeeDo-Park-onmyo.png",
+                "illustration_pan_x": -367.0,
+                "illustration_pan_y": 306.0,
+                "illustration_scale": 1.021,
+                "illustrator": "Illus. HeeDo Park",
+                "level": "None",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "subtitle": "The Sundered Veil",
+                "text": "<rev> Put <name> into play with 1 doom on it.\n<action> If there is no doom on <name>: Discard it.\n<action>: Test <willpower> (5). If you succeed, remove 1 doom from <name>.",
+                "title": "<unique><name>",
+                "traits": "Blunder. Omen.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Sakura Sanada",
+            "id": "e861bbb0-b521-4fce-8825-9d0eeaa92ad6",
+            "project_number": "13",
+            "front": {
+                "agility": "2",
+                "classes": [
+                    "survivor"
+                ],
+                "combat": "5",
+                "flavor_text": "\"You won't live long enough to remember my name.\"",
+                "health": "9",
+                "illustration": "./images/image-removebg-preview (4).png",
+                "illustration_pan_x": -57.0,
+                "illustration_pan_y": 287.0,
+                "illustration_scale": 3.258,
+                "illustrator": "Illus. Puppeteer Lee",
+                "intellect": "2",
+                "sanity": "5",
+                "subtitle": "The Wanderer",
+                "text": "<reaction>When you play a <t>Spirit</t> card: Reduce its resource cost by 1 or gain 1 resource.\n<elder_sign> effect: +1. You may shuffle a <t>Spirit</t> card from your discard pile back into your deck.",
+                "title": "<unique><name>",
+                "traits": "Drifter.Wayfarer.",
+                "type": "investigator"
+            },
+            "back": {
+                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": 67.0,
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "005mini-Sakura Sanada.eon",
+            "id": "40657e44-efbc-4cf0-a1a8-df46a91ce2ce",
+            "front": {
+                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "Live by the Sword",
+            "id": "a75df5f6-b7df-41df-8206-4b7ef53c76fe",
+            "project_number": "14",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "4",
+                "flavor_text": "\"Anyone can die. It's living that requires courage.\"",
+                "icons": "WC",
+                "illustration": "./images/the-art-of-puppeteer-lee-6.jpg",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": -96.0,
+                "illustration_scale": 1.879,
+                "illustrator": "Illus. Puppeteer Lee",
+                "level": "None",
+                "subtitle": "The Warrior's Code",
+                "text": "Sakura Sanada deck only.\nYou gain an additional action during your turn which can only be used to engage or fight an enemy.",
+                "title": "<unique><name>",
+                "traits": "Spirit. Pact.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Die by the Sword",
+            "id": "8e6b84cb-76f4-4eb3-b0e2-4777366b0342",
+            "project_number": "15",
+            "front": {
+                "classes": [
+                    "weakness"
+                ],
+                "flavor_text": "Death before dishonor.",
+                "illustration": "./images/rachid-lotf-rachid-lotf-paysage-267.jpg",
+                "illustration_pan_x": -137.0,
+                "illustration_pan_y": -82.0,
+                "illustration_scale": 0.883,
+                "illustrator": "Illus. Rachid Lotf",
+                "text": "<rev> Put <name> into play in your threat area.\nEnemies in your threat area get +1 fight and you deal +1 damage when you fail a skill test while fighting an enemy engaged with another investigator.\n<action> Take 2 damage or discard an <t>Ally</t> asset from your hand or play area: Discard <name>.",
+                "traits": "Pact.",
+                "type": "treachery"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Mayu Tachibana",
+            "id": "e5d3a8ea-5af3-4668-8856-aed4499cc5a4",
+            "project_number": "16",
+            "front": {
+                "agility": "4",
+                "classes": [
+                    "mystic"
+                ],
+                "combat": "2",
+                "flavor_text": "\"I made a promise to my sister...\"",
+                "health": "7",
+                "illustration": "./images/mayu-2.png",
+                "illustration_pan_x": -73.0,
+                "illustration_pan_y": 294.0,
+                "illustration_scale": 2.52,
+                "illustrator": "Illus. Kuvshinov Ilya",
+                "intellect": "2",
+                "sanity": "7",
+                "subtitle": "The Twin",
+                "text": "<reaction> After an enemy at your location is evaded: Draw 1 card.\n<free>: Move 1 charge from Camera Obscura to another asset you control with \"uses (charges).\" (Limit once per round.)\n<elder_sign> effect: +1. If you succeed, you may place 1 charge on Camera Obscura.",
+                "title": "<unique><name>",
+                "traits": "Miskatonic. Student.",
+                "type": "investigator",
+                "willpower": "4"
+            },
+            "back": {
+                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
+                "illustration_pan_x": 146.0,
+                "illustration_pan_y": 97.0,
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "098mini-Mayu Tachibana.eon",
+            "id": "888afb4f-5e1d-43d5-9beb-49eae8ebf81d",
+            "front": {
+                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
+                "type": "mini"
+            },
+            "back": {
+                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
+                "type": "mini_back"
+            }
+        },
+        {
+            "name": "Camera Obscura",
+            "id": "d67aa005-193b-40ba-bfe7-a0e26a58b6cb",
+            "project_number": "17",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "3",
+                "flavor_text": "",
+                "icons": "WI",
+                "illustration": "./images/joan-campos-portada.jpg",
+                "illustrator": "Illus. Joan Campos",
+                "level": "None",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Ethereal Viewfinder",
+                "text": "Mayu Tachibana deck only.\nYou get +1 <willpower>.\nUses (4 charges.)\n<action>: <b>Evade.</b> Add your <willpower> to your skill value for this test. If you succeed by 2 or more, you may spend 1 charge to deal 1 damage to the evaded enemy. ",
+                "title": "<unique><name>",
+                "traits": "Item. Tool. Relic. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Molochean Usurper",
+            "id": "d3920582-34d3-45cf-962d-a40e321d714f",
+            "project_number": "18",
+            "front": {
+                "attack": "3",
+                "classes": [
+                    "weakness"
+                ],
+                "combat": "3",
+                "damage": 0,
+                "evade": "3",
+                "flavor_text": "Trapped within the perpetual twilight of Onigawa, Mayu's twin sister had aeons to realize the power of their sacred bloodline...and reclaim the fallen empire as her own.",
+                "health": "3",
+                "horror": 1,
+                "illustration": "./images/celestial-fang-descending-angel-s.jpg",
+                "illustration_pan_x": -851.0,
+                "illustration_pan_y": 1088.0,
+                "illustration_scale": 1.764,
+                "illustrator": "Illus. Celestial Fang",
+                "text": "Hunter 2.\n<pre> Bearer only.\n<name> cannot be damaged unless it is exhausted.",
+                "title": "<unique><name>",
+                "traits": "Avatar. Extradimensional.",
+                "type": "enemy"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Ancestral Favor",
+            "id": "ec1561da-b94e-46d5-acd6-7e27df1eeaf5",
+            "project_number": "23",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "flavor_text": "\"We all must pay for the violence of our ancestors.\"",
+                "icons": "Q",
+                "illustration": "./images/hou-china-2.jpg",
+                "illustration_pan_x": -1574.0,
+                "illustration_pan_y": -306.0,
+                "illustration_scale": 1.428,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "text": "After you commit <name> to a skill test, you may add a <blessing> token to the chaos bag.\nThe performing investigator may return all <blessing> tokens resolved during this test to the chaos bag instead of the token pool after this test ends.",
+                "traits": "Boon. Blessed.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Iscariot's Apocrypha",
+            "id": "62acfd78-89d9-4d07-ab43-a3008f07a20f",
+            "project_number": "19",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "3",
+                "flavor_text": "Even the greatest story ever told has two sides.",
+                "icons": "WI",
+                "illustration": "./images/sacredtext.png",
+                "illustration_pan_x": -48.0,
+                "illustration_pan_y": 269.0,
+                "illustration_scale": 1.182,
+                "illustrator": "Illus. Unknown",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "The Lost Gospel",
+                "text": "<action> If <name> is ready: <b>Investigate.</b> If this investigation is successful and you resolved a <blessing> or <elder_sign> token, discover an additional clue from your location. As an additional cost to initiate this ability, you may exhaust this to add a <blessing> token to the chaos bag.",
+                "title": "<unique><name>",
+                "traits": "Item. Tome. Blessed. ",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Nothing Else Matters",
+            "id": "7da75e16-ab2d-4d89-a948-f73027e8596d",
+            "project_number": "24",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "flavor_text": "\"We're alive...and we're together.\"",
+                "icons": "WCA",
+                "illustration": "./images/tianqi-wang-bomb-bear-kesulu.jpg",
+                "illustration_pan_x": -1113.0,
+                "illustration_pan_y": -355.0,
+                "illustration_scale": 1.785,
+                "illustrator": "Illus. Tianqi Wang",
+                "level": "0",
+                "text": "If this test is successful, you may add Nothing Else Matters to the hand of another investigator at your location instead of discarding it after this test ends.",
+                "traits": "Innate.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Parabellum",
+            "id": "449fc1c7-54c2-4239-ac62-2f3e26a3acac",
+            "project_number": "20",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "2",
+                "flavor_text": "If you desire peace, you must prepare for war.",
+                "icons": "WC",
+                "illustration": "./images/hou-china-6.jpg",
+                "illustration_pan_x": -66.0,
+                "illustration_pan_y": 237.0,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "Parabellum does not ready during the upkeep phase.\n<reaction> After you fail a skill test while fighting during your turn, exhaust Parabellum: You gain an additional action this turn which can only be used to fight or engage an enemy. \n<action>: Ready Parabellum.",
+                "traits": "Ritual. Spirit.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Safe Haven",
+            "id": "d77f7e10-183d-4d68-b308-67423eb88690",
+            "project_number": "22",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "3",
+                "flavor_text": "",
+                "icons": "WC",
+                "illustration": "./images/florent-lebrun-shrine-path.jpg",
+                "illustration_pan_x": -1165.0,
+                "illustration_pan_y": 3.0,
+                "illustration_scale": 0.959,
+                "illustrator": "Illus. Florent Lebrun",
+                "level": "0",
+                "text": "Attach <name> to your current location. Limit 1 per location.\n<reaction> When your turn begins, if there are no enemies at the attached location: Add 1 <blessing> token to the chaos bag.\n<reaction> If <name> is ready when an enemy enters the attached location: Reveal a random token from the chaos bag. If you reveal a <blessing> token, exhaust <name> and deal 1 damage to that enemy.",
+                "traits": "Boon. Blessed.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Sofia Wallace",
+            "id": "541ec591-7c72-483b-a3fc-f2b54228675e",
+            "project_number": "21",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "4",
+                "flavor_text": "Blessed are the peacekeepers.",
+                "health": "2",
+                "icons": "WC",
+                "illustration": "./images/george-redreev-08.jpg",
+                "illustration_pan_x": -956.0,
+                "illustration_pan_y": 169.0,
+                "illustration_scale": 0.713,
+                "illustrator": "Illus. George Redreev",
+                "level": "0",
+                "sanity": "2",
+                "slot": "Ally",
+                "subtitle": "Devout Deputy",
+                "text": "You get +1 <willpower>. \n<reaction> After you succeed at a skill test in which you resolved a <blessing> token, exhaust Sofia Wallace: Deal 1 damage to an enemy at your location.",
+                "title": "<unique><name>",
+                "traits": "Ally. Police. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Coordinated Infiltration",
+            "id": "e828f856-e10f-4d54-8dd7-1d07bcac2cf2",
+            "project_number": "26",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "0",
+                "flavor_text": "\"They'll never see us coming.\"",
+                "icons": "WA",
+                "illustration": "./images/rudy-parfaite-sevenninja-lyinginambush-03.jpg",
+                "illustration_pan_x": -143.0,
+                "illustration_pan_y": -218.0,
+                "illustration_scale": 1.567,
+                "illustrator": "Illus. Rudy Parfaite",
+                "level": "1",
+                "text": "Echo 1 <i>(until the end of the round, each other investigator may play <name> from its owner's discard pile once.) </i>\nChoose a connecting location. Each investigator may pay 1 resource to move one location towards the chosen location.",
+                "traits": "Tactic. Tandem.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Someone Your Own Size",
+            "id": "4314f5dd-5de3-4f12-84cb-1d4e799c5335",
+            "project_number": "25",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "2",
+                "flavor_text": "\"You'll have to go through me, first.\"",
+                "icons": "WC",
+                "illustration": "./images/z-w-gu-12web.jpg",
+                "illustration_pan_x": -31.0,
+                "illustration_pan_y": 242.0,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "1",
+                "text": "Limit 1 <t>Posture</t> per investigator. \n<reaction> When an enemy would attack another investigator at your location <i>(before resolving that attack)</i>, exhaust <name>: <b>Fight.</b> This action targets the attacking enemy. Ignore the retaliate keyword for this attack.",
+                "traits": "Posture.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Better Late Than Never",
+            "id": "0e609c7c-3cd5-433c-8d8b-1ab60913dc5c",
+            "project_number": "27",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "5",
+                "flavor_text": "\"They always did have a penchant for the dramatic...\"",
+                "icons": "WQ",
+                "illustration": "./images/david-benzal-batlle-sam.jpg",
+                "illustration_pan_x": -479.0,
+                "illustration_pan_y": -81.0,
+                "illustration_scale": 1.839,
+                "illustrator": "Illus. David Benzai",
+                "level": "2",
+                "text": "Echo 1 <i>(until the end of the round, each other investigator may play <name> from its owner's discard pile once.) </i>\nSearch your deck for an <t>Ally</t> asset, then set it aside, shuffle your deck, and place the set-aside card on top of your deck. Reduce the cost of <name> by 1 for each doom in play.",
+                "traits": "Tactic. Tandem.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "The Obsidian Manifold",
+            "id": "a2543f81-6cca-497b-ba00-d58202a5a2b1",
+            "project_number": "28",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "3",
+                "flavor_text": "The surface of the cube writhes \nas it struggles to contain infinite possibilities.",
+                "icons": "QQQ",
+                "illustration": "./images/forgotten_black_cube_by_thegameworld_ddtvzfl-fullview.jpg",
+                "illustration_pan_x": -24.0,
+                "illustration_pan_y": -173.0,
+                "illustration_scale": 0.783,
+                "illustrator": "Illus. TheGameWorld",
+                "level": "3",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Noneuclidean Conduit",
+                "text": "Limit 1 per deck. \n<free> Discard The Obsidian Manifold: Search your deck for an asset that takes up at least 1 hand slot and draw it. You may immediately play that asset, reducing its cost by 3. Shuffle your deck.",
+                "title": "<unique><name>",
+                "traits": "Item. Relic. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Indomitable",
+            "id": "50ebb7b1-9a8b-4af7-887c-63d57d7556ec",
+            "project_number": "29",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "flavor_text": "\"Bravery simply means \nthat you are afraid of the right things.\"",
+                "icons": "WWWCCC",
+                "illustration": "./images/K6FfNIp.jpeg",
+                "illustration_pan_x": 160.0,
+                "illustration_pan_y": -416.0,
+                "illustration_scale": 1.127,
+                "illustrator": "Illus. Mingchen Shen",
+                "level": "4",
+                "text": "Commit only to a skill test you are performing.\nIf this test fails, you may take 1 direct damage to attempt this test again <i>(after resolving all effects from the failed test)</i>, committing Indomitable to it.",
+                "traits": "Innate. Developed.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Martyrdom",
+            "id": "77713a6b-fe9c-40f3-83a2-a48d082c7655",
+            "project_number": "30",
+            "front": {
+                "classes": [
+                    "guardian"
+                ],
+                "cost": "0",
+                "flavor_text": "You always have something left to lose.",
+                "icons": "QQQQ",
+                "illustration": "./images/download.jpg",
+                "illustration_pan_x": -1.0,
+                "illustration_pan_y": -329.0,
+                "illustration_scale": 0.895,
+                "illustrator": "Illus. Alice Rose",
+                "level": "5",
+                "text": "Fast. Play only when another investigator would be assigned damage and/or horror that would defeat them.\nCancel that damage and/or horror. You may add 1 <blessing> token to the chaos bag for each point of damage or horror canceled in this way. You are defeated.",
+                "traits": "Tactic. Blessed.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Adopt and Adapt",
+            "id": "96356f97-731a-4406-816c-f7104c1af6db",
+            "project_number": "36",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "flavor_text": "\"No one knows what it means to hunt well like the hunted.\"",
+                "icons": "IA",
+                "illustration": "./images/floris-van-der-peet-deer-final-web.jpg",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": -43.0,
+                "illustration_scale": 1.703,
+                "illustrator": "Illus. Floris van der Peet",
+                "level": "0",
+                "text": "Adopt and Adapt gains <wild> for each enemy at the performing investigator's location and each connecting location.\nNon-<t>Elite</t> enemies at the performing investigator's location lose retaliate and alert for the duration of this skill test.",
+                "traits": "Practiced.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "First Principles",
+            "id": "7cc5dd71-8417-4b19-b0cd-42cee41c71e8",
+            "project_number": "32",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "0",
+                "flavor_text": "All death is certain.",
+                "icons": "WI",
+                "illustration": "./images/z-wu--fp.jpg",
+                "illustration_pan_x": -328.0,
+                "illustration_pan_y": -97.0,
+                "illustration_scale": 0.585,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "0",
+                "text": "Fast. Play after you assign damage to your investigator.\nDiscover 1 clue from your location.",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Kasumi Katsura",
+            "id": "0445da10-3200-424b-87d8-b32e4ef90cde",
+            "project_number": "31",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "4",
+                "flavor_text": "\"I will restore the honor of my house, \nno matter what it takes.\"",
+                "health": "2",
+                "icons": "WA",
+                "illustration": "./images/femaleninja5.jpg",
+                "illustration_pan_x": -69.0,
+                "illustration_pan_y": 275.0,
+                "illustration_scale": 0.483,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "sanity": "2",
+                "slot": "Ally",
+                "subtitle": "Last Ranger of August",
+                "text": "You get +1 <agility>.\n<action> If you are not engaged with an enemy, exhaust <name>: Deal 1 damage to an enemy at your location or a connecting location.",
+                "title": "<unique><name>",
+                "traits": "Ally. Hunter. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "One Way to Find Out",
+            "id": "f0f3f538-e89d-4907-b132-56cb20235e26",
+            "project_number": "33",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "2",
+                "flavor_text": "Fortune favors the bold.",
+                "icons": "II",
+                "illustration": "./images/Trust Your Gut.png",
+                "illustration_pan_x": -29.0,
+                "illustration_pan_y": -561.0,
+                "illustration_scale": 2.61,
+                "illustrator": "Illus. Jeffrey Smith",
+                "level": "0",
+                "text": "Play only as your first action.\nChoose an unrevealed location that is connected to a revealed location and move to it. Then, if there is at least 1 clue at that location, you may take an investigate action. This action does not provoke attacks of opportunity.",
+                "traits": "Spirit. Bold.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Symbolic Enigma",
+            "id": "a714c1ad-75f0-4808-898f-613e490cd516",
+            "project_number": "34",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "X",
+                "flavor_text": "\"The mind of your enemy \nwraps its secrets in its symbols.\"",
+                "icons": "Q",
+                "illustration": "./images/imx-ud-din-watchful.jpg",
+                "illustration_pan_x": -418.0,
+                "illustration_pan_y": -8.0,
+                "illustration_scale": 0.814,
+                "illustrator": "Illus. Imad Awan",
+                "level": "0",
+                "text": "Investigators at your location draw a total of X cards, distributed as you wish. X is the shroud value of your current location.",
+                "traits": "Insight. Occult.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Visual Calculus",
+            "id": "ebad037e-76b6-40d1-9f4e-b73af0d67e8c",
+            "project_number": "35",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "1",
+                "flavor_text": "All you need is a change in perspective.",
+                "icons": "IA",
+                "illustration": "./images/insight.png",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": -564.0,
+                "illustration_scale": 2.349,
+                "illustrator": "Illus. Jodeee",
+                "level": "0",
+                "text": "<b>Investigate.</b> Choose a connecting location with the most clues and add the shroud value of the chosen location to your location's shroud value for this test. If you succeed, discover an additional clue from a connecting location.",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Field Autopsy",
+            "id": "299d41a9-e495-4ba6-b12a-10382cf198f3",
+            "project_number": "38",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "X",
+                "flavor_text": "<size 7.3>\"All I need is a sharp knife and some smelling salts...\"",
+                "icons": "WI",
+                "illustration": "./images/vladyslava-hladkova-authopsy01.jpg",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 0.856,
+                "illustrator": "Illus. Vladyslava Hladkova",
+                "level": "1",
+                "text": "Fast. Play after an enemy is defeated at your location.\n<b>Investigate.</b> You get +X <intellect> for this investigation and if you succeed, you may discover up to X additional clues from your location. X is the defeated enemy's printed horror value. ",
+                "traits": "Insight. Science.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Trailblazer",
+            "id": "af4f33b8-19d0-45dc-a7de-77d7d4438703",
+            "project_number": "37",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "2",
+                "flavor_text": "\"What's the worst that could happen?\"",
+                "icons": "IA",
+                "illustration": "./images/hou-china-.jpg",
+                "illustration_pan_x": -462.0,
+                "illustration_pan_y": 225.0,
+                "illustration_scale": 0.527,
+                "illustrator": "Illus. Hou China",
+                "level": "1",
+                "text": "Limit 1 <t>Posture</t> per investigator. \n<reaction> When an enemy would attack you, place 1 of your clues on your location and exhaust <name>: Cancel that attack.",
+                "traits": "Posture.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Reason to Believe",
+            "id": "420e6362-2402-46a5-8a2b-de24eeac4102",
+            "project_number": "39",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "2",
+                "flavor_text": "Some things defy rational explanation.",
+                "icons": "WQ",
+                "illustration": "./images/xiaofan-zhang-marchofthespirits-resized.jpg",
+                "illustration_pan_x": -41.0,
+                "illustration_pan_y": 232.0,
+                "illustrator": "Illus. Xiaofan Zhang",
+                "level": "2",
+                "text": "<reaction> After you resolve at least 1 <blessing> or <elder_sign> token during a successful investigation, exhaust <name>: Discover an additional clue from your location.",
+                "traits": "Paradox. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Method to the Madness",
+            "id": "8751960f-d1ba-482f-9153-210c20e5cb6a",
+            "project_number": "40",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "2",
+                "flavor_text": "\"No, I don't know what I'm doing... That's why it's going to work.\"",
+                "icons": "QQ",
+                "illustration": "./images/ihor-reshetnikov-aberrance-10-x2.jpg",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": -1002.0,
+                "illustration_scale": 0.957,
+                "illustrator": "Illus. Ihor Reshetnikov",
+                "level": "3",
+                "text": "Fast. Uses (2 secrets).\n<reaction> After you assign any amount of horror to your investigator: Place that many secrets on <name>.\n<free> Spend X secrets and exhaust <name>: You get +X skill value for this test.",
+                "traits": "Talent.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Terrible Symmetry",
+            "id": "06580f6a-af7d-454e-bed5-6bb21c2c82db",
+            "project_number": "41",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "0",
+                "flavor_text": "Nothing ever ends.",
+                "icons": "WIQ",
+                "illustration": "./images/olga-orlova-l3-a.jpg",
+                "illustration_pan_x": -236.0,
+                "illustration_pan_y": 22.0,
+                "illustration_scale": 1.172,
+                "illustrator": "Illus. Olga Orlova",
+                "level": "4",
+                "text": "Fast. Play only when your turn begins.\nDiscard all non-weakness cards from your hand. Until the end of the round, you may play other event cards in your discard pile as though they were in your hand. If you do and they would be discarded, shuffle them into your deck instead.",
+                "traits": "Insight. Spirit.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Geometric Unity",
+            "id": "3b041b46-0623-4f09-8107-90c7fb807b5f",
+            "project_number": "42",
+            "front": {
+                "classes": [
+                    "seeker"
+                ],
+                "cost": "3",
+                "flavor_text": "\"The source code of the universe describes \na purely geometric operating system.\"",
+                "icons": "WIQ",
+                "illustration": "./images/emilio-grasso-grand-armillary.jpg",
+                "illustration_pan_x": -744.0,
+                "illustration_pan_y": -65.0,
+                "illustration_scale": 1.3,
+                "illustrator": "Illus. Emilio Grasso",
+                "level": "5",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "subtitle": "The Final Theorem",
+                "text": "<reaction> After you successfully investigate, exhaust <name>: Discover an additional clue from any revealed location with a shroud value lower than every location you have already discovered a clue from this turn.",
+                "title": "<unique><name>",
+                "traits": "Augury. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "“Banzai\" Stiletto",
+            "id": "5140d76b-e248-4141-abb9-a4fe50f430c2",
+            "project_number": "43",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "4",
+                "flavor_text": "\"What do we say to the tariff collectors, boys? Not today!\"",
+                "health": "2",
+                "icons": "CA",
+                "illustration": "./images/hou-china-8.jpg",
+                "illustration_pan_x": -356.0,
+                "illustration_pan_y": 234.0,
+                "illustration_scale": 0.537,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "sanity": "2",
+                "slot": "Ally",
+                "subtitle": "Savvy Smuggler",
+                "text": "You get +1 <combat>.\n<reaction> After you defeat an enemy, exhaust \"Banzai\" Stiletto: Gain 1 resource.",
+                "title": "<unique><name>",
+                "traits": "Ally. Sailor. Criminal.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Escape Rope",
+            "id": "2e1ee806-481a-4478-9bbe-00160739691a",
+            "project_number": "44",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "\"You'll be fine. Just don't look down.\"",
+                "icons": "A",
+                "illustration": "./images/fantasy-girl-climbing-through-the-waterfall-fe.jpg",
+                "illustration_pan_x": -847.0,
+                "illustration_pan_y": -22.0,
+                "illustration_scale": 1.37,
+                "illustrator": "Illus. Dennis Fröhlich",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "<free> If you are not engaged with an enemy, exhaust <name>: Choose a revealed connecting location and test <agility> (X), where X is the chosen location's shroud value. If you succeed, move to the chosen location.",
+                "traits": "Item. Tool.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Honed Shuriken",
+            "id": "284c5580-e73f-4234-8459-989ae0fa0fcd",
+            "project_number": "45",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "Before their use was outlawed and the art became largely forgotten, over fifty different schools of shurikenjutsu were practiced.",
+                "icons": "CA",
+                "illustration": "./images/a609a01d6262346edbcc03ca3f4110ba.jpg",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -134.0,
+                "illustration_scale": 1.879,
+                "illustrator": "Illus. Joel Hustak",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Uses (5 ammo). If <name> has no ammo, discard it.\n<action> If you are not engaged with an enemy, spend 1 ammo: <b>Fight.</b> Add your <agility> to your skill value for this attack. If you succeed by 2 or more, this attack deals +1 damage.",
+                "traits": "Item. Tool. Weapon. Ranged. Illicit.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Make My Own Luck",
+            "id": "fd4c0eb7-72aa-4688-b3e4-ba5500efe690",
+            "project_number": "48",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "flavor_text": "\"Read ’em and weep!\"",
+                "icons": "Q",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Hanley-Leng-3d-art-mahjong-Маджонг-3934270.jpeg",
+                "illustration_pan_x": -628.0,
+                "illustration_pan_y": -194.0,
+                "illustration_scale": 1.529,
+                "illustrator": "Illus. Hanley Leng",
+                "level": "0",
+                "text": "Before resolving chaos tokens for this test, the performing investigator may return one revealed chaos token to the chaos bag and reveal two additional chaos tokens. If this skill test is successful, the performing investigator gains 2 resources.",
+                "traits": "Fortune. Gambit.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Marked for Death",
+            "id": "708d3c69-2d92-4461-91a3-260102ba6919",
+            "project_number": "47",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "0",
+                "flavor_text": "It is only dishonorable to attack an unaware \nadversary if you aren't getting paid for it.",
+                "icons": "A",
+                "illustration": "./images/inshadows_by_davidhueso_d5y3pvz-fullview.jpg",
+                "illustration_pan_x": 7.0,
+                "illustration_pan_y": -160.0,
+                "illustration_scale": 0.784,
+                "illustrator": "Illus. David Hueso",
+                "level": "0",
+                "text": "Fast. Play only when a non-<t>Elite</t> enemy enters play. Attach <name> to that enemy. Limit 1 per enemy.\nThe attached enemy gets –1 fight. \n<reaction> After you defeat the attached enemy: Gain 2 resources.",
+                "traits": "Task. Illicit.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Trick Limb",
+            "id": "fafe7ce2-bade-40ff-80e6-5b82a6b08ef2",
+            "project_number": "46",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "flavor_text": "<size 7.6>The clockwork appendage contains several hidden compartments.",
+                "illustration": "./images/jonathon-bick-cinematic.jpg",
+                "illustration_pan_x": -375.0,
+                "illustration_pan_y": -46.0,
+                "illustration_scale": 1.3,
+                "illustrator": "Illus. Jonathon Bick",
+                "level": "0",
+                "slot": "1 Hand",
+                "subtitle": "Disarmed and Dangerous",
+                "text": "Permanent. Purchase at deck creation.\nWhen you purchase <name>, suffer 2 physical trauma.\nYou have 3 additional hand slots, which can only be used to hold <t>Tool</t> assets that take up exactly 1 hand slot.",
+                "title": "<unique><name>",
+                "traits": "Item. Prosthesis.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Charcoal Grease",
+            "id": "005a00e2-4d0a-4b31-b8b0-708a1a2ac530",
+            "project_number": "49",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "\"A gauntlet packed with gunpowder can be a \npowerful tool...in the right hands.\"",
+                "icons": "IC",
+                "illustration": "./images/anthony-lozada-jwarrior2100.jpg",
+                "illustration_pan_x": 116.0,
+                "illustration_pan_y": 20.0,
+                "illustration_scale": 1.281,
+                "illustrator": "Illus. Anthony Lozada",
+                "level": "1",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "<reaction> As an additional cost to perform a fight action using a <t>Melee</t> asset you control, exhaust Charcoal Grease: This attack deals +1 damage. ",
+                "traits": "Item. Tool.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Insult to Injury",
+            "id": "9c5c69b0-8a2c-4173-b027-214194ab3879",
+            "project_number": "50",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "Sometimes, it's just about sending a message.",
+                "icons": "WA",
+                "illustration": "./images/4876f9b0948fb9c9755d10a11da7064d.png",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -129.0,
+                "illustration_scale": 1.409,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "1",
+                "text": "Limit 1 <t>Posture</t> per investigator. \n<reaction> After dealing damage to a non-<t>Elite</t> enemy while fighting, exhaust <name>: Automatically evade the damaged enemy.",
+                "traits": "Posture.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hidden Blade",
+            "id": "8192edcc-a23c-4595-adbb-c42a1ee901b9",
+            "project_number": "51",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "\"I'm unarmed, see? Have a closer look...\"",
+                "icons": "CA",
+                "illustration": "./images/pickman7546958583026548744.png",
+                "illustration_pan_x": -290.0,
+                "illustration_pan_y": 199.0,
+                "illustration_scale": 1.321,
+                "illustrator": "Illus. Qi Nan Kam",
+                "level": "2",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Uses (3 secrets). \n<free> Spend 1 secret and exhaust <name>: Fight. This attack uses <agility> instead of  <combat>. This attack may only target an enemy that is not engaged with you and automatically succeeds if targeting an enemy with 1 remaining health.",
+                "traits": "Item. Tool. Illicit.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Mirror Image",
+            "id": "848052cd-6b87-473d-9aff-058e41b39bb4",
+            "project_number": "52",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "Don't believe everything you see.",
+                "icons": "AQ",
+                "illustration": "./images/2335ff67d5cb47879da832319404ab57.jpg",
+                "illustration_pan_x": -37.0,
+                "illustration_pan_y": 16.0,
+                "illustration_scale": 1.387,
+                "illustrator": "Illus. Unknown",
+                "level": "3",
+                "text": "Fast. Play only when your turn begins.\nEcho 1 <i>(until the end of the round, each other investigator may play <name> from its owner's discard pile once.)</i> \nUntil the end of the round, whenever you take a basic fight, basic evade, or move action, you may take that action again <i>(unless that action was taken via this effect)</i>.",
+                "traits": "Trick. Bold. Tandem.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Sapphire and Lapis",
+            "id": "a0e10481-fc0c-4f5d-9885-3e8ee8e06d75",
+            "project_number": "53",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "4",
+                "flavor_text": "",
+                "icons": "CCAA",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Untitled-new.png",
+                "illustration_pan_x": 119.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 2.606,
+                "illustrator": "Illus. Team Ninja",
+                "level": "4",
+                "slot": "2 Hands",
+                "slots": [
+                    "hands"
+                ],
+                "subtitle": "Two Souls",
+                "text": "<action> If <name> is ready: <b>Fight.</b> Add your <agility> to your skill value for this attack. If you succeed by 2 or more, this attack deals +1 damage and you may exhaust <name> to fight again. \n<reaction> After you are attacked by an enemy during the enemy phase, exhaust <name>: <b>Fight.</b> Add your <agility> to your skill value for this attack. This attack targets the attacking enemy.",
+                "title": "<unique><name>",
+                "traits": "Item. Relic. Weapon. Melee.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Full Count",
+            "id": "fc2e1bb8-c943-431c-8f00-468aa7513463",
+            "project_number": "54",
+            "front": {
+                "classes": [
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "\"It's not gambling! It's just...counting.\"",
+                "icons": "WIQ",
+                "illustration": "./images/cardcounting.png",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 130.0,
+                "illustration_scale": 2.906,
+                "illustrator": "Illus. Fay Dalton",
+                "level": "5",
+                "subtitle": "Keeping Score",
+                "text": "<For> At the end of your turn: Test <intellect> (X), where X is the number of tokens sealed on <name>. If you fail, release all tokens sealed here. \n<reaction> When a non-<fail> chaos token would be returned to the chaos bag, if it was not released from a card, exhaust <name>: Seal that token here, instead.",
+                "title": "<unique><name>",
+                "traits": "Talent. Illicit.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Akane Amada",
+            "id": "489c626f-533b-435a-915c-a0442851219f",
+            "project_number": "55",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "2",
+                "flavor_text": "<size 7>Akane's appreciation of live music began as a child, when she observed a beautiful young bard banish a vengeful spirit from her village.",
+                "health": "2",
+                "icons": "Q",
+                "illustration": "./images/spiritcaller-main.jpg",
+                "illustration_pan_x": 33.0,
+                "illustration_pan_y": -168.0,
+                "illustration_scale": 1.115,
+                "illustrator": "Illus. Shinotamar",
+                "level": "0",
+                "sanity": "2",
+                "slot": "Ally",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Mother of Melodies",
+                "text": "<reaction> When an enemy would perform an attack of opportunity against an investigator at your location, exhaust <name>: Cancel that attack.\n<reaction> After an enemy is evaded at your location, exhaust <name>: Gain 1 resource.",
+                "title": "<unique><name>",
+                "traits": "Ally. Patron. Performer.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Exorcism",
+            "id": "bd93f78d-6e18-49e6-b970-c6c4814d9ccb",
+            "project_number": "56",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "3",
+                "flavor_text": "\"You don't belong in this world!\"",
+                "icons": "WC",
+                "illustration": "./images/FHsCXei.jpg",
+                "illustration_pan_x": -120.0,
+                "illustration_pan_y": -51.0,
+                "illustration_scale": 0.987,
+                "illustrator": "Illus. Coffeedog7",
+                "level": "0",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "<action>: <b>Fight.</b> This attack uses <willpower> instead of <combat>. If you resolve a <blessing> or <elder_sign> token during this skill test or if this attack targets a <t>Spectral</t> or <t>Yokai</t> enemy, it deals +1 damage. ",
+                "traits": "Spell. Blessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hidden Potential",
+            "id": "eacbf025-8bb3-4fb9-a164-d8ffc9cf4cf5",
+            "project_number": "60",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "0",
+                "flavor_text": "\"There are no limits. Everything is permitted.\"",
+                "icons": "W",
+                "illustration": "./images/connie-bi-1.jpg",
+                "illustration_pan_x": -364.0,
+                "illustration_pan_y": -114.0,
+                "illustration_scale": 1.592,
+                "illustrator": "Illus. Connie Bi",
+                "level": "0",
+                "text": "As an additional cost to play <name>, discard 2 non-weakness cards from your hand or play area.\nDraw 3 cards. This action does not provoke attacks of opportunity.",
+                "traits": "Spirit.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Parasitic Host",
+            "id": "99226f58-72dd-4470-ac56-5aa4be542f94",
+            "project_number": "57",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "4",
+                "flavor_text": "",
+                "health": "3",
+                "icons": "C",
+                "illustration": "./images/tooth-wu-daoshi-2-1-23232332336666 (1).jpg",
+                "illustration_pan_x": -692.0,
+                "illustration_pan_y": 225.0,
+                "illustration_scale": 1.185,
+                "illustrator": "Illus. Tooth Wu",
+                "level": "0",
+                "sanity": "<dash>",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "subtitle": "Dark Passenger",
+                "text": "<action> If <name> is ready: <b>Fight.</b> You get +2 <combat> for this attack. If this attack is successful, you may take 1 damage to have this attack deal +1 damage, and if this attack defeats an enemy, you may exhaust <name> to heal 1 damage from it.\n<for> When your turn ends: If you did not successfully fight with Parasitic Host this turn, test <willpower> (3). If you fail, Parasitic Host deals 1 damage to you.",
+                "title": "<unique><name>",
+                "traits": "Symbiote. Pact.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Remote Viewing",
+            "id": "2c97e691-8dd4-461a-a4b9-07023b5136be",
+            "project_number": "58",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "3",
+                "flavor_text": "\"I have eyes everywhere.\"",
+                "icons": "Q",
+                "illustration": "./images/benjamin-weustemaat-eye-of-chaos-final-assmall.jpg",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 4.0,
+                "illustration_scale": 0.734,
+                "illustrator": "Illus. Benjamin Weustemaat",
+                "level": "0",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "<free> Exhaust <name>: Look at either the top card of the encounter deck, the top card of an investigator's deck, or the revealed side of an unrevealed connecting location.",
+                "traits": "Spell. Augury. ",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Spellbinding Seance",
+            "id": "4bc8c07e-587c-4b50-9c91-18171d8ac804",
+            "project_number": "59",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "2",
+                "flavor_text": "Taking a secret to your grave just isn't enough these days.",
+                "icons": "WI",
+                "illustration": "./images/livia-prima-princess-of-ghouls-x.jpg",
+                "illustration_pan_x": -207.0,
+                "illustration_pan_y": -294.0,
+                "illustration_scale": 1.015,
+                "illustrator": "Illus. Livia Prima",
+                "level": "0",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "Uses (3 charges). \n<reaction> When an enemy is defeated at your location, spend 1 charge from <name>: Discover 1 clue at your location.",
+                "traits": "Spell. Ritual.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Fan the Flames",
+            "id": "7f80d751-57ba-47c9-8971-a183363dd2bc",
+            "project_number": "61",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "2",
+                "flavor_text": "\"You've already given me everything I need.\"",
+                "icons": "W",
+                "illustration": "./images/hou-china-4.jpg",
+                "illustration_pan_x": -54.0,
+                "illustration_pan_y": 245.0,
+                "illustration_scale": 0.574,
+                "illustrator": "Illus. Hou China",
+                "level": "1",
+                "text": "Limit 1 <t>Posture</t> per investigator. \n<reaction> After an enemy engages you, exhaust <name>: Choose a <mystic> asset you control with \"uses (charges)\" and test <willpower> (X), where X is the number of charges on the chosen asset. If you succeed, place a charge on the chosen asset.  ",
+                "traits": "Posture.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Rope Effigy",
+            "id": "e0bd2a0a-c827-4c6a-8239-77d88126c1a9",
+            "project_number": "62",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "2",
+                "flavor_text": "Wara ningy? are used in a number of rituals, most often combined with something from the intended recipient of a curse, such as a piece of hair. ",
+                "icons": "WC",
+                "illustration": "./images/nevoangelo-art-jigoku-shoujo-2017.jpg",
+                "illustration_pan_x": -871.0,
+                "illustration_pan_y": 206.0,
+                "illustration_scale": 1.247,
+                "illustrator": "Illus. Nevoangelo",
+                "level": "1",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "<reaction> After an enemy enters play, exhaust <name>: Seal 1 <curse> token from the chaos bag on that enemy.\n<action> Choose an enemy with a <curse> token sealed on it: <b>Parley.</b> Deal 1 damage to the chosen enemy. If this effect defeats an enemy, you may return a <curse> token sealed on it to the token pool.",
+                "traits": "Item. Occult. Cursed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Flicker",
+            "id": "dabeca85-ba12-4f5d-a0be-4c6f43754dbb",
+            "project_number": "63",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "1",
+                "flavor_text": "\"Wait. Something's wrong...\"",
+                "icons": "WQ",
+                "illustration": "./images/FDwYWPNVgAEAc56.jpeg",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 3.0,
+                "illustration_scale": 1.142,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "2",
+                "text": "Fast. Play during any <free> window.\nChoose a non-weakness asset you control and return it to its owner's hand.",
+                "traits": "Augury.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Surrender to Madness",
+            "id": "9b085910-1bd1-4355-a696-fc1dee573cdc",
+            "project_number": "64",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "0",
+                "flavor_text": "If you can't beat them, f'taghn.",
+                "icons": "QQ",
+                "illustration": "./images/martin-de-diego-eldritch-whisper15-by-almanegra-db5jgo8.jpg",
+                "illustration_pan_x": -1.0,
+                "illustration_pan_y": -110.0,
+                "illustration_scale": 1.644,
+                "illustrator": "Illus. Martin de Diego",
+                "level": "3",
+                "text": "Fast. Play only during your turn.\nAs an additional cost to play <name>, you suffer 1 mental trauma.\nUntil the end of the round, the base value of each of your skills is equal to the amount of horror on your investigator.",
+                "traits": "Gambit. Occult.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Sidereal Schism",
+            "id": "2a5b249b-5915-4d54-a663-659fda58de89",
+            "project_number": "65",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "flavor_text": "As above, so below.",
+                "illustration": "./images/eternity.jpg",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": -250.0,
+                "illustration_scale": 1.072,
+                "illustrator": "Illus. Unknown",
+                "level": "4",
+                "subtitle": "Defy the Stars",
+                "text": "Permanent. \n<reaction> When the game begins: Reveal tokens from the chaos bag until you reveal a token that isn't an <elder_sign> or <fail>. You may seal that token here. ",
+                "title": "<unique><name>",
+                "traits": "Fortune.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Eventide",
+            "id": "57eb056f-ac74-4f90-a13a-88805fba109f",
+            "project_number": "66",
+            "front": {
+                "classes": [
+                    "mystic"
+                ],
+                "cost": "4",
+                "flavor_text": "In brightest day, or blackest night.",
+                "icons": "WCQ",
+                "illustration": "./images/gwyneth-n-skehan-moonlight-02.jpg",
+                "illustration_pan_x": -267.0,
+                "illustration_pan_y": 261.0,
+                "illustration_scale": 0.961,
+                "illustrator": "Illus. Gwyneth Skehan",
+                "level": "5",
+                "slot": "2 Hands",
+                "slots": [
+                    "hands"
+                ],
+                "subtitle": "Moonlight Cleaver",
+                "text": "<for> When <name> enters play: Place 1 doom on it.\n<action>: <b>Fight.</b> Add your <willpower> to your skill value for this attack. If Eventide has doom on it, this attack deals +2 damage. Otherwise, this attack deals +1 damage. If this attack defeats an enemy with doom on it, you may move that doom to Eventide.",
+                "title": "<unique><name>",
+                "traits": "Item. Relic. Weapon.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Bury the Light",
+            "id": "1cf68642-b0ea-4fb6-99b4-ac62626bc92e",
+            "project_number": "69",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "0",
+                "flavor_text": "Those who never love give no hostage to fortune.",
+                "icons": "WIA",
+                "illustration": "./images/543064-warrior-fantasy_art-armor-sword-samurai-Japanese_kimono.jpg",
+                "illustration_pan_x": -526.0,
+                "illustration_pan_y": -16.0,
+                "illustration_scale": 1.054,
+                "illustrator": "Illus. Dao Trong Le",
+                "level": "0",
+                "text": "Fast. Play only during your turn.\nAs an additional cost to play <name>, discard a non-weakness asset that takes up at least 1 ally slot from your hand or play area.\nGain X resources, where X is the discarded asset's printed resource cost.",
+                "traits": "Spirit.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Give and Take",
+            "id": "c4776a6d-8070-4c01-9e02-39a5a68ef20c",
+            "project_number": "67",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "0",
+                "flavor_text": "\"C'mon! Just let me hold it for a minute...\"",
+                "icons": "Q",
+                "illustration": "./images/hou-china-5.jpg",
+                "illustration_pan_x": -503.0,
+                "illustration_pan_y": 160.0,
+                "illustration_scale": 0.677,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "text": "<free> Give control of <name> to another investigator at your location and exhaust <name>: Take control of a <t>Item</t> asset controlled by that investigator.",
+                "traits": "Favor.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Kentaro Kobayashi",
+            "id": "d6805756-292b-4773-9fde-6b873db1ac5d",
+            "project_number": "68",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "3",
+                "flavor_text": "\"Get out of my kitchen!\"",
+                "health": "2",
+                "icons": "Q",
+                "illustration": "./images/mingchen-shen-spicy32final.jpg",
+                "illustration_pan_x": -79.0,
+                "illustration_pan_y": 230.0,
+                "illustration_scale": 0.856,
+                "illustrator": "Illus. Mingchen Shen",
+                "level": "0",
+                "sanity": "2",
+                "slot": "Ally",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Manic Mixologist",
+                "text": "You have 1 additional hand slot, which can only be used to hold a <t>Tool</t> asset. \n<action><action>: Heal 1 damage. This ability may be activated by any investigator at your location.",
+                "title": "<unique><name>",
+                "traits": "Ally. Possessed.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Light the Way",
+            "id": "d94541be-7684-4c6f-9adc-ef15f9452000",
+            "project_number": "70",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "1",
+                "flavor_text": "Caution is a luxury you simply cannot afford.",
+                "icons": "WIA",
+                "illustration": "./images/2883182-fantasy-art-digital-art-artwork-women-lantern-sea-rock-clouds-trees-dark-lights___fantasy-wallpapers.jpg",
+                "illustration_pan_x": -82.0,
+                "illustration_pan_y": 5.0,
+                "illustration_scale": 0.972,
+                "illustrator": "Illus. Unknown",
+                "level": "0",
+                "text": "Fast. Play when the investigation phase begins.\nUntil the end of the round, other investigators may commit cards to tests you perform as though they were at your location and cards committed by other investigators to tests you perform gain <wild>.",
+                "traits": "Spirit. Bold.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Now or Never",
+            "id": "bd9954b9-1fdf-4645-a381-6af114856601",
+            "project_number": "72",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "flavor_text": "There is no shame in defeat, \nso long as the spirit remains unconquered.",
+                "icons": "Q",
+                "illustration": "./images/orly-wanders-samuka.jpg",
+                "illustration_pan_x": -987.0,
+                "illustration_pan_y": 238.0,
+                "illustration_scale": 1.824,
+                "illustrator": "Illus. Orly Wanders",
+                "level": "0",
+                "text": "Max 1 committed per skill test.\n<name> gains <wild> <wild> if the performing investigator has failed at least one skill test this round.",
+                "traits": "Innate.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Trawl the Shallows",
+            "id": "24d3ae58-5cfe-4845-b959-100bdca14eb9",
+            "project_number": "71",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "0",
+                "flavor_text": "Time and tide wait for no one.",
+                "icons": "IA",
+                "illustration": "./images/EyIkZAhUYAAWNa6.jpeg",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": -742.0,
+                "illustration_scale": 3.022,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "0",
+                "text": "Discard the top X cards of your deck, where X is your location's shroud value. If any weaknesses are discarded in this way, shuffle them back into your deck. Then, choose a card from among the top X cards in your discard pile and add it to your hand.",
+                "traits": "Fortune.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Limit Break",
+            "id": "e82fd65e-cc25-41d9-89a0-17271ea2562b",
+            "project_number": "74",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "0",
+                "flavor_text": "\"Failure is an excellent teacher.\"",
+                "icons": "WCA",
+                "illustration": "./images/loeumvxwr6091.png",
+                "illustration_pan_x": -114.0,
+                "illustration_pan_y": 14.0,
+                "illustration_scale": 1.074,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "1",
+                "text": "Fast. Play only during your turn.\nYou gain an additional action this turn. If you have 3 or fewer remaining health, remove <name> from the game. Otherwise, exile <name>.",
+                "traits": "Spirit. Desperate.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Reckless Abandon",
+            "id": "69635253-ffd6-470a-b40b-ce0fb7b46eb2",
+            "project_number": "73",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "2",
+                "flavor_text": "\"The greatest warrior need never fear the second \ngreatest warrior; they need only fear the novice \nwho has never held a weapon before.\"",
+                "icons": "CC",
+                "illustration": "./images/hou-china-1.jpg",
+                "illustration_pan_x": -277.0,
+                "illustration_pan_y": 154.0,
+                "illustration_scale": 0.581,
+                "illustrator": "Illus. Hou China",
+                "level": "1",
+                "text": "Limit 1 <t>Posture</t> per investigator. \n<free> Before revealing a chaos token during a fight action you are performing, take 1 damage and exhaust <name>: This attack deals +1 damage.",
+                "traits": "Posture.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Turn from the Ruin",
+            "id": "7daf88a5-2279-48d3-97e7-568021962561",
+            "project_number": "75",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "X",
+                "flavor_text": "Time heals all wounds. It will cause many more.",
+                "icons": "WQ",
+                "illustration": "./images/jeffreysmith-turnaway.png",
+                "illustration_pan_x": -151.0,
+                "illustration_pan_y": -808.0,
+                "illustration_scale": 2.905,
+                "illustrator": "Illus. Jeffrey Smith",
+                "level": "2",
+                "text": "Fast. Play after an investigator fails a skill test. X is the amount they failed by.\nThe performing investigator may draw up to X cards. ",
+                "traits": "Insight.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Destiny Bond",
+            "id": "dfa3f166-9dd6-4c6e-a107-67bcd5ef064b",
+            "project_number": "76",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "cost": "1",
+                "flavor_text": "<size 7.6>\"Our bonds grew together like roots underground until at last we found that we were one tree and not two.\"",
+                "icons": "WW",
+                "illustration": "./images/1185799-illustration-fantasy-art-lake-water-artwork-fish-blue-Yin-and-Yang-Avatar-The-Last-Airbender-vortex-lily-pads-ART-screenshot-computer-wallpaper-fictional-character-frac.jpg",
+                "illustration_pan_x": -207.0,
+                "illustration_pan_y": 7.0,
+                "illustration_scale": 1.152,
+                "illustrator": "Illus. Unknown",
+                "level": "3",
+                "text": "Fast. Play only during your turn.\nChoose an investigator. The next action you perform this turn may be performed as if you were at the chosen investigator's location. Remove <name> from the game.",
+                "traits": "Paradox. ",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Selective Memory",
+            "id": "6430e9a5-148e-4659-8964-2b4a39e656ec",
+            "project_number": "77",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "flavor_text": "The best defense the mind has \nis simply forgetting to remember.",
+                "illustration": "./images/e6018bbd808266a067ebb1aa527deaf1.jpg",
+                "illustration_pan_x": 113.0,
+                "illustration_pan_y": -64.0,
+                "illustration_scale": 1.674,
+                "illustrator": "Illus. Marta Nael",
+                "level": "4",
+                "subtitle": "Before I Forget",
+                "text": "Permanent. Exceptional. \n<reaction> Before you draw your opening hand: Search your deck for up to 5 non-weakness cards and discard them. Shuffle your deck.",
+                "title": "<unique><name>",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Wanderlust",
+            "id": "60bdedc2-e5f9-44d0-9d24-7b5c953c97d9",
+            "project_number": "78",
+            "front": {
+                "classes": [
+                    "survivor"
+                ],
+                "flavor_text": "Not all who wander are lost.",
+                "illustration": "./images/I'm Never Going Back.png",
+                "illustration_pan_x": -457.0,
+                "illustration_pan_y": 255.0,
+                "illustration_scale": 2.15,
+                "illustrator": "Illus. Jeffrey Smith",
+                "level": "5",
+                "subtitle": "Nomadic Impulse",
+                "text": "Permanent. \n<reaction> When your turn ends, if your current location is not the same one where you started your turn: Draw 1 card.",
+                "title": "<unique><name>",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Harakiri",
+            "id": "43f1d468-ed45-48ea-8bff-d18a61e43a13",
+            "project_number": "86",
+            "front": {
+                "classes": [
+                    "rogue",
+                    "mystic"
+                ],
+                "cost": "2",
+                "flavor_text": "\"Blood moves the wheels of history; \ndon't be afraid to spill some.\"",
+                "icons": "WC",
+                "illustration": "./images/knifecuts.jpg",
+                "illustration_pan_x": -62.0,
+                "illustration_pan_y": 104.0,
+                "illustration_scale": 1.354,
+                "illustrator": "Illus. LYU",
+                "level": "0",
+                "slot": "1 Arcane",
+                "slots": [
+                    "arcane"
+                ],
+                "text": "<reaction> After an enemy becomes engaged with you, exhaust <name>: Draw 1 card. \n<free> Take 1 direct damage and discard <name>: Draw 2 cards.",
+                "traits": "Ritual. Occult.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hermetic Abacus",
+            "id": "3117bddb-17cf-4335-aa52-1d813ebe9b6a",
+            "project_number": "84",
+            "front": {
+                "classes": [
+                    "seeker",
+                    "mystic"
+                ],
+                "cost": "5",
+                "flavor_text": "Utilized as a specialized \"calculator\" to forecast future events, the exact mechanics of this esoteric device are understood only by a select few.",
+                "icons": "WI",
+                "illustration": "./images/i-m-gibney-physmeter-concepts2.jpg",
+                "illustration_pan_x": -143.0,
+                "illustration_pan_y": -968.0,
+                "illustration_scale": 3.096,
+                "illustrator": "Illus. I.M. Gibney",
+                "level": "0",
+                "slot": "2 Hands",
+                "slots": [
+                    "hands"
+                ],
+                "text": "<reaction> After the last clue is discovered at your location, exhaust <name>: Look at the top X cards of the encounter deck, where X is your location's shroud value. \n<action> If <name> is ready: <b>Investigate.</b> Add your <willpower> to your skill value for this investigation. If you fail, exhaust <name>.",
+                "traits": "Item. Tool. Occult. ",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Keening Katana",
+            "id": "43017c79-01ec-42a5-a210-70555c9724da",
+            "project_number": "80",
+            "front": {
+                "classes": [
+                    "guardian",
+                    "rogue"
+                ],
+                "cost": "3",
+                "flavor_text": "Those who have attained true mastery of the sword \nwill never find themselves without a blade.",
+                "icons": "CA",
+                "illustration": "./images/pavel-golubev-1-edit.jpg",
+                "illustration_pan_x": -422.0,
+                "illustration_pan_y": 105.0,
+                "illustration_scale": 1.053,
+                "illustrator": "Illus. Pavel Golubev",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "<action> If <name> is ready: <b>Fight.</b> For this attack, you may use <agility> instead of <combat> and you get +1 skill value. If you succeed by 2 or more, this attack deals +1 damage. If you fail by 2 or more, exhaust <name>.",
+                "traits": "Item. Weapon. Melee.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Sulfuric Censer",
+            "id": "2db7855d-f00a-4307-a49d-f8991ce2e768",
+            "project_number": "81",
+            "front": {
+                "classes": [
+                    "guardian",
+                    "mystic"
+                ],
+                "cost": "4",
+                "flavor_text": "\"Its purpose is to remind us that we are always dangerously close to something better left unknown.\"",
+                "icons": "W",
+                "illustration": "./images/censer.png",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": -209.0,
+                "illustration_scale": 3.4,
+                "illustrator": "Illus. Lukasz Jaskolski",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Limit 1 per investigator.\nYou get +1 <willpower>. \n<reaction> After <name> enters play: Add up to 2 <blessing> tokens to the chaos bag.",
+                "traits": "Item. Charm. Blessed. ",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Believer's Burden",
+            "id": "0b81328e-3bf6-4ad7-9fe9-d12f1f9a60a3",
+            "project_number": "82",
+            "front": {
+                "classes": [
+                    "guardian",
+                    "survivor"
+                ],
+                "cost": "2",
+                "flavor_text": "\"It was much smaller, at first, but then I noticed that every time \nI began to doubt, the lattice of runes grew more labyrinthine...\"",
+                "icons": "WA",
+                "illustration": "./images/2nm7yl44cyk51.jpg",
+                "illustration_pan_x": 7.0,
+                "illustration_pan_y": -776.0,
+                "illustration_scale": 1.289,
+                "illustrator": "Illus. Sara Badday",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "text": "As an additional cost to play <name>, take 1 direct damage. \n<for> After you fail a skill test: If <name> is ready, add 1 <curse> token to the chaos bag or exhaust The Believer's Burden.\nWhile The Believer's Burden is ready, you get +1 <willpower>.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Devil's Due",
+            "id": "e96e7b02-871e-4110-a138-59b76810b000",
+            "project_number": "83",
+            "front": {
+                "classes": [
+                    "seeker",
+                    "rogue"
+                ],
+                "cost": "2",
+                "flavor_text": "\"It made me an offer I couldn't refuse.\"",
+                "icons": "IA",
+                "illustration": "./images/mist-xg-srs.jpg",
+                "illustration_pan_x": -465.0,
+                "illustration_pan_y": -667.0,
+                "illustration_scale": 1.845,
+                "illustrator": "Illus. Mist XG",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "text": "As an additional cost to play this <name>, take 1 direct damage. \n<for> At the start of your turn: Pay 1 resource or exhaust <name>.\nWhile <name> is ready, you may ignore the first attack of opportunity you would take each turn.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Dragon's Dogma",
+            "id": "92e60af5-7a70-4385-8a84-e477d28b2ad2",
+            "project_number": "88",
+            "front": {
+                "classes": [
+                    "mystic",
+                    "survivor"
+                ],
+                "cost": "3",
+                "flavor_text": "This painful rendering makes it impossible to forget your vows.",
+                "icons": "WC",
+                "illustration": "./images/countryside_by_guweiz_dbp0h38-fullview.jpg",
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": 75.0,
+                "illustration_scale": 1.376,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "subtitle": "A Permanent Reminder",
+                "text": "As an additional cost to play <name>, take 1 direct damage. \n<for> After you evade an enemy: If <name> is ready, exhaust The Dragon's Dogma.\nWhile The Dragon's Dogma is ready, you get +1 <combat>.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Hermit's Heresy",
+            "id": "db785db3-9d3d-4626-914c-cf0c4f74fe3f",
+            "project_number": "79",
+            "front": {
+                "classes": [
+                    "guardian",
+                    "seeker"
+                ],
+                "cost": "2",
+                "flavor_text": "\"We all cast our own shadows.\"",
+                "icons": "WI",
+                "illustration": "./images/rionor_the_grey_cat_by_lorandesore_ddk8j7e-fullview.jpg",
+                "illustration_pan_x": 122.0,
+                "illustration_pan_y": -305.0,
+                "illustration_scale": 1.762,
+                "illustrator": "Illus. LoranDeSore",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "text": "As an additional cost to play this, take 1 direct damage.\n<for> After you succeed at a skill test: Add 1 <blessing> token and 1 <curse> token to the chaos bag.\nWhile there are at least 4 <blessing> or 4 <curse> tokens in the chaos bag, you get +1 <intellect> while investigating.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Phoenix's Pathos",
+            "id": "cd3a598b-0341-4137-bb78-86114bbcb1ce",
+            "project_number": "85",
+            "front": {
+                "classes": [
+                    "seeker",
+                    "survivor"
+                ],
+                "cost": "2",
+                "flavor_text": "Whether you remain the ash or become the phoenix is up to you.",
+                "icons": "IA",
+                "illustration": "./images/saiyre-illustration-and-design-prejudice.jpg",
+                "illustration_pan_x": -1645.0,
+                "illustration_pan_y": -1081.0,
+                "illustration_scale": 2.556,
+                "illustrator": "Illus. Saiyre",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "text": "As an additional cost to play <name>, take 1 direct damage.\n<for> After an enemy at your location takes damage: Exhaust <name>.\nWhile <name> is ready and an enemy is at your location or a connecting location, you get +1 <intellect> while investigating.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "The Serpent's Sacrifice",
+            "id": "220e05db-12f4-4f1c-9ea8-d069b38df429",
+            "project_number": "87",
+            "front": {
+                "classes": [
+                    "rogue",
+                    "survivor"
+                ],
+                "cost": "2",
+                "flavor_text": "\"There are no people like me. Not anymore.\"",
+                "icons": "CA",
+                "illustration": "./images/4fea509807b7d19d771ff162eecee10c.jpg",
+                "illustration_pan_x": -577.0,
+                "illustration_pan_y": -16.0,
+                "illustration_scale": 2.388,
+                "illustrator": "Illus. Frank Hong",
+                "level": "0",
+                "slot": "Body",
+                "slots": [
+                    "body"
+                ],
+                "text": "As an additional cost to play <name>, take 1 direct damage. \n<for> If <name> is ready when you defeat an enemy: Take 1 damage or exhaust <name>.\nWhile <name> is ready, you must use <agility> instead of <combat> while fighting.",
+                "title": "<unique><name>",
+                "traits": "Brand.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Anticipatory Focus",
+            "id": "a4bb7ca5-be9e-4be6-9970-f7068435e0a2",
+            "project_number": "93",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "0",
+                "flavor_text": "It's not paranoia <br>if they really are out to get you.",
+                "icons": "WQ",
+                "illustration": "./images/FV8ObkNagAA1NEs.jpeg",
+                "illustration_pan_x": -4.0,
+                "illustration_pan_y": -525.0,
+                "illustration_scale": 1.142,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "0",
+                "text": "Fast. Play only during your turn.\nLook at the top 1<per> cards of the encounter deck. If there are any enemy cards among the looked at cards, you gain an additional action this turn.",
+                "traits": "Insight. Spirit. ",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Hell or High Water",
+            "id": "2aa6f6f6-0650-4bc5-83d9-94fded0f6a37",
+            "project_number": "89",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "Many choices lie ahead. None of them will be easy.",
+                "illustration": "./images/xiaofan-zhang-possession-resized.jpg",
+                "illustration_pan_x": -595.0,
+                "illustration_pan_y": 222.0,
+                "illustrator": "Illus. Xiaofan Zhang",
+                "level": "0",
+                "subtitle": "Damned If You Do",
+                "text": "Permanent. Limit 1 <name> per deck. Purchase at deck creation.\n<reaction> After taking your initial mulligan: Take an additional mulligan for up to 2 cards.\nYou begin each game with 2 fewer resources.",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hell or High Water",
+            "id": "900a40fa-150f-4748-bc44-06490d8ef73f",
+            "project_number": "90",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "Many choices lie ahead. None of them will be easy.",
+                "illustration": "./images/xiaofan-zhang-possession-resized.jpg",
+                "illustration_pan_x": -595.0,
+                "illustration_pan_y": 222.0,
+                "illustrator": "Illus. Xiaofan Zhang",
+                "level": "0",
+                "subtitle": "Damned If You Don't",
+                "text": "Permanent. Limit 1 <name> per deck. Purchase at deck creation.\nYou may not mulligan non-weakness cards from your opening hand. \nYour opening hand size is increased by 2.",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Papercut Lantern",
+            "id": "e55db522-ca9d-4824-bc09-0230f5ba1c8f",
+            "project_number": "91",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "1",
+                "flavor_text": "",
+                "icons": "I",
+                "illustration": "./images/lantern.png",
+                "illustration_pan_x": 47.0,
+                "illustration_pan_y": 249.0,
+                "illustration_scale": 2.432,
+                "illustrator": "Illus. Unknown",
+                "level": "0",
+                "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
+                "text": "Uses (2 supplies). If <name> has no supplies, discard it.\n<for> When an investigator at your location resolves a <cultist>, <elder_thing>, or <fail> token during a skill test: Remove 1 supply from <name>. \n<free> Exhaust <name>: Your current location gets –1 shroud until the end of your turn.",
+                "traits": "Item. Tool.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Skin in the Game",
+            "id": "79755a2d-78ba-4fbb-9810-911d1be458af",
+            "project_number": "92",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "\"Every scar is a story... Some are better than others.\"",
+                "illustration": "./images/hou-china-13.jpg",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": 280.0,
+                "illustration_scale": 0.473,
+                "illustrator": "Illus. Hou China",
+                "level": "0",
+                "subtitle": "Heart on Your Sleeve",
+                "text": "Permanent. Purchase at deck creation.\nYour investigator's Deckbuilding Restrictions gain: \"No <t>Clothing</t> assets that take up a body slot.\"\nYou have 2 additional body slots, which can only be used to hold <t>Brand</t> assets.",
+                "title": "<unique><name>",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Hannya Mask",
+            "id": "df835c48-36dc-49f3-998a-5e76e17b1e4e",
+            "project_number": "95",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "2",
+                "flavor_text": "\"It is better to be a warrior in a garden <br>than a gardener in a war.\"",
+                "icons": "WA",
+                "illustration": "./images/hou-china-9.jpg",
+                "illustration_pan_x": -219.0,
+                "illustration_pan_y": 247.0,
+                "illustrator": "Illus. Hou China",
+                "level": "1",
+                "slots": [
+                    "hat"
+                ],
+                "text": "You get +1 <agility> while evading. \n<reaction> When a non-<t>Elite</t> enemy would engage you, discard <name>: Exhaust that enemy instead.",
+                "traits": "Item. Mask.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Rapid Release",
+            "id": "1189deb0-04d9-4777-9782-345217d75e53",
+            "project_number": "96",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "0",
+                "flavor_text": "Blink and you'll miss it.",
+                "icons": "WQ",
+                "illustration": "./images/FS4vN80agAAUVMO.jpeg",
+                "illustration_pan_x": 31.0,
+                "illustration_pan_y": 11.0,
+                "illustration_scale": 1.346,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "1",
+                "text": "Fast. Play during any <free> window.\nReady a non-weakness asset controlled by an investigator at your location. Exile <name>.",
+                "traits": "Tactic.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Koromaru",
+            "id": "de5f9af0-65ae-47fd-8b34-7c8caa2bc4d7",
+            "project_number": "97",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "3",
+                "flavor_text": "Local legends tell of a hound so loyal \nthat it took up its deceased master's mantle \nas protector of Minakami's shrines.",
+                "health": "1",
+                "icons": "WC",
+                "illustration": "./images/banicsidy-m-i-s-s-i-o-n-by-banicsidy-ddqciva.jpg",
+                "illustration_pan_x": -157.0,
+                "illustration_pan_y": 221.0,
+                "illustration_scale": 0.999,
+                "illustrator": "Illus. Banicsidy",
+                "level": "2",
+                "sanity": "3",
+                "slot": "Ally",
+                "slots": [
+                    "ally"
+                ],
+                "subtitle": "Sentinel of the Shrines",
+                "text": "<reaction> After an enemy is defeated at your location, exhaust Koromaru: Heal 1 horror from an investigator at your location.",
+                "title": "<unique><name>",
+                "traits": "Ally. Creature. Warden.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Fungible Fate",
+            "id": "d68ce96e-0333-4e06-be47-ec87e08cd671",
+            "project_number": "98",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "<dash>",
+                "flavor_text": "\"Do not concern yourself with \"destiny,\" child... \nIn this world, there is no fate but the one we make.\"",
+                "illustration": "./images/mignon-zakuga-mignon-zakuga-officialsmall.jpg",
+                "illustration_pan_x": 116.0,
+                "illustration_pan_y": -100.0,
+                "illustration_scale": 1.286,
+                "illustrator": "Illus. Mignon Zakuga",
+                "level": "3",
+                "text": "Permanent.\nYou have 1 additional tarot slot.",
+                "traits": "Condition.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Severe Clear",
+            "id": "f36f655e-6ee3-4155-a64d-d6fd89fb9e77",
+            "project_number": "99",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "cost": "3",
+                "flavor_text": "Early pioneers in the field of aviation found \nthey lacked the vocabulary to describe the \nunnatural state of \"unlimited visibility\" that \naccompanied an exceptionally clear day.",
+                "icons": "IIAA",
+                "illustration": "./images/Severe Clear art.jpg",
+                "illustration_pan_x": -12.0,
+                "illustration_pan_y": -785.0,
+                "illustration_scale": 0.856,
+                "illustrator": "Illus. Hou China",
+                "level": "4",
+                "text": "Attach <name> to your current location. Limit 1 per location.\nThe attached location and each connecting location get –1 shroud.",
+                "traits": "Fortune.",
+                "type": "event"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        },
+        {
+            "name": "Through Thick and Thin",
+            "id": "ee34a8eb-c52a-4e05-936b-28407bcca7f3",
+            "project_number": "100",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "",
+                "illustration": "./images/z-w-gu-siremake2asmall.jpg",
+                "illustration_pan_x": 125.0,
+                "illustration_pan_y": 198.0,
+                "illustration_scale": 0.734,
+                "illustrator": "Illus. Gu Zheng Wei",
+                "level": "5",
+                "subtitle": "If It Means a Lot to You",
+                "text": "Permanent.\nYour investigator's Deckbuilding Restrictions gain: \"Exactly 1 asset that takes up ally slots.\" \n<reaction> Before you draw your opening hand or when your deck is empty: Search your deck and discard pile for an asset that takes up an ally slot and attach it to <name>.\nCards attached to <name> may be played as if they were in your hand.",
+                "title": "<unique><name>",
+                "traits": "Pact.",
+                "type": "asset"
+            },
+            "back": {
+                "type": "player"
+            }
+        },
+        {
+            "name": "Shinobu Sanosuke",
+            "id": "47ad4eb2-4596-4761-8789-780d3987f8ab",
+            "project_number": "101",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "\"No one should reach nirvana without the taste \nof good saké on their lips.\"",
+                "health": "7",
+                "illustration": "./images/bm-solari-dm1-removebg-preview (1).png",
+                "illustration_pan_x": 126.0,
+                "illustration_pan_y": 285.0,
+                "illustrator": "Illus. BM Solari",
+                "sanity": "7",
+                "subtitle": "The Monk",
+                "text": "You begin the game with Hair of the Dog <i>(Absinthe Elixir)</i> in play.\n<free> Spend 1 supply from Hair of the Dog: You get +1 skill value for this test. (Limit once per turn.)\n<elder_sign> effect: +X. X is the number of supplies on Hair of the Dog.",
+                "title": "<unique><name>",
+                "traits": "Scholar. Drifter.",
+                "type": "investigator"
+            },
+            "back": {
+                "illustration": "./images/bm-solari-dm1.jpg",
+                "illustration_pan_x": -15.0,
+                "illustration_pan_y": 70.0,
+                "illustration_scale": 0.705,
+                "type": "investigator_back"
+            }
+        },
+        {
+            "name": "Gods Be Good",
+            "id": "b1ada05d-e5c1-4794-b607-0610de518bd9",
+            "project_number": "94",
+            "front": {
+                "classes": [
+                    "neutral"
+                ],
+                "flavor_text": "\"If they don't answer your prayers... \nWhy do you worship them?\"",
+                "icons": "WI",
+                "illustration": "./images/johanna-rupprecht-2020-03-24-mononoke-pond.jpg",
+                "illustration_pan_x": -411.0,
+                "illustration_pan_y": 205.0,
+                "illustration_scale": 1.08,
+                "illustrator": "Illus. Johanna Rupprecht",
+                "level": "0",
+                "text": "After this skill test ends, add 2 <blessing> tokens to the chaos bag. If this skill test fails, also add 2 <curse> tokens to the chaos bag after this test ends.",
+                "traits": "Fortune.",
+                "type": "skill"
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1"
+        }
+    ],
+    "encounter_sets": [],
+    "guides": [],
+    "translations": {
+        "de": "Investigator_de.json"
+    }
+}
